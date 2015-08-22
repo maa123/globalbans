@@ -1,0 +1,2 @@
+# globalbans
+PMMPPlugin
