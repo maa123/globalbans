@@ -1,2 +1,2 @@
 # globalbans
-PMMPPlugin
+PMMPのプラグインです
